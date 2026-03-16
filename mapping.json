@@ -1,0 +1,13 @@
+{
+    "pairs": [
+        {
+            "subrepo": "packages/subrepo-a",
+            "directory_name": ".",
+            "bitbucket_repo": "git@bitbucket.org:audit-sandbox/sync-subrepo-test.git",
+            "bitbucket_remote": "bb-auth",
+            "sync_method": "subtree",
+            "target_branch": "blitzy-sync",
+            "pull_branch": "develop"
+        }
+    ]
+}
