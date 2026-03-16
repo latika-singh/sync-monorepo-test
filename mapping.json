@@ -1,8 +1,8 @@
 {
     "pairs": [
         {
-            "subrepo": "packages/subrepo-a",
-            "directory_name": "",
+            "subrepo": "packages",
+            "directory_name": "subrepo-a",
             "bitbucket_repo": "git@bitbucket.org:audit-sandbox/sync-subrepo-test.git",
             "bitbucket_remote": "bb-auth",
             "sync_method": "subtree",
